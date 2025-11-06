@@ -77,7 +77,7 @@ var requestLibInfo = function(libName){
 		function(libName){
 			import web.rest.jsonLiteClient;
 			
-			var url = "http://git.pygrower.cn/kanadeblisst/aardio-extlibs/raw/branch/master/dist/exlibs.json";
+			var url = "https://github.com/lifeissocool/aardio-extlibs/blob/master/dist/exlibs.json";
 			var http = web.rest.jsonLiteClient(null, "");
 			var libApi = http.api(url)
 			var listLib = libApi.get();
