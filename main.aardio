@@ -90,9 +90,9 @@ var packLib = function(libname){
 	fsys.delete(libTmpPath);
    	fsys.delete(tarFilePath);  
    	console.log("已打包完成，路径: ", tarFilePath+".lzma");
-   	libInfo["url"] = libInfo["url"] : thread.get("GithubRepo") + "/refs/heads/master/dist/package/" + libname + ".tar.lzma";
+   	libInfo["url"] = libInfo["url"] : thread.get("GithubRepo") + "/raw/refs/heads/master/dist/package/" + libname + ".tar.lzma";
    	if(io.exist("\res\"+libname)){
-   		libInfo["sampleZipUrl"] = libInfo["sampleZipUrl"] : thread.get("GithubRepo") + "/refs/heads/master/dist/samples/" + libname + ".zip"
+   		libInfo["sampleZipUrl"] = libInfo["sampleZipUrl"] : thread.get("GithubRepo") + "/raw/refs/heads/master/dist/samples/" + libname + ".zip"
    	}
    	return libInfo;
 }

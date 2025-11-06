@@ -3,8 +3,8 @@
         "author":"kanadeblisst",
         "description":"一个微软开源的js引擎(ChakraCore.dll)",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/ChakraCore.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/ChakraCore.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/ChakraCore.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/ChakraCore.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -13,7 +13,7 @@
         "description":"frpc的windows服务管理工具，可注册和自启frpc",
         "lastModifyTime":"2025-11-06",
         "pType":"项目",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/FrpcManager.zip",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/FrpcManager.zip",
         "url":"https://github.com/kanadeblisst00/FrpcManager",
         "version":"1.0.0.1",
         "weight":100
@@ -23,7 +23,7 @@
         "description":"微信视频号下载工具",
         "lastModifyTime":"2025-11-06",
         "pType":"项目",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/WechatVideoSniffer.zip",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/WechatVideoSniffer.zip",
         "url":"https://github.com/kanadeblisst00/WechatVideoSniffer2.0",
         "version":"2.1.0.236",
         "weight":100
@@ -32,8 +32,8 @@
         "author":"kanadeblisst",
         "description":"封装cdp协议控制浏览器",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/cdpdriver.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/cdpdriver.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/cdpdriver.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/cdpdriver.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -41,8 +41,8 @@
         "author":"kanadeblisst",
         "description":"goquery封装库，用于解析HTML",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/goquery.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/goquery.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/goquery.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/goquery.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -50,7 +50,7 @@
         "author":"kanadeblisst",
         "description":"aardio官方hpsocket库更新了下github的dll",
         "lastModifyTime":"2025-11-06",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/hpsocket.tar.lzma",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/hpsocket.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -58,8 +58,8 @@
         "author":"kanadeblisst",
         "description":"htmlquery封装库，用于解析HTML",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/htmlquery.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/htmlquery.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/htmlquery.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/htmlquery.tar.lzma",
         "version":"1.0.1.0",
         "weight":1
     },
@@ -67,8 +67,8 @@
         "author":"kanadeblisst",
         "description":"jsonquery封装库，用于解析json",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/jsonquery.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/jsonquery.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/jsonquery.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/jsonquery.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -76,8 +76,8 @@
         "author":"kanadeblisst",
         "description":"自动识别给定的字符编码",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/kichardet.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/kichardet.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/kichardet.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/kichardet.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -85,8 +85,8 @@
         "author":"kanadeblisst",
         "description":"aes des加解密",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/kicrypt.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/kicrypt.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/kicrypt.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/kicrypt.tar.lzma",
         "version":"1.0.0.2",
         "weight":1
     },
@@ -94,7 +94,7 @@
         "author":"kanadeblisst",
         "description":"windows下给目录创建软链接",
         "lastModifyTime":"2025-11-06",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/kilink.tar.lzma",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/kilink.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -102,8 +102,8 @@
         "author":"kanadeblisst",
         "description":"多线程日志打印库，可输出文件和控制台",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/kilogging.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/kilogging.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/kilogging.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/kilogging.tar.lzma",
         "version":"1.0.0.2",
         "weight":1
     },
@@ -111,8 +111,8 @@
         "author":"aardio论坛",
         "description":"redis客户端",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/kiredis.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/kiredis.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/kiredis.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/kiredis.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -120,8 +120,8 @@
         "author":"kanadeblisst",
         "description":"符合Python requests编程风格的http请求库",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/kirequests.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/kirequests.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/kirequests.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/kirequests.tar.lzma",
         "version":"1.2.0.0",
         "weight":1
     },
@@ -129,8 +129,8 @@
         "author":"kanadeblisst",
         "description":"sunny封装库，用于监听拦截和修改本机的http请求",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/kisunny.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/kisunny.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/kisunny.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/kisunny.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -138,8 +138,8 @@
         "author":"kanadeblisst",
         "description":"Python风格的aardio库",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/pyaardio.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/pyaardio.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/pyaardio.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/pyaardio.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -148,7 +148,7 @@
         "description":"生成rdp文件，用于远程桌面管理",
         "lastModifyTime":"2025-11-06",
         "pType":"项目",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/rdphelper.zip",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/rdphelper.zip",
         "url":"https://github.com/kanadeblisst00/rdp_helper",
         "version":"1.0.0.1",
         "weight":100
@@ -157,8 +157,8 @@
         "author":"kanadeblisst",
         "description":"tls-client封装库，用于http请求",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/tlsClient.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/tlsClient.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/tlsClient.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/tlsClient.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     },
@@ -166,8 +166,8 @@
         "author":"kanadeblisst",
         "description":"xmlquery封装库，用于解析XML",
         "lastModifyTime":"2025-11-06",
-        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/samples/xmlquery.zip",
-        "url":"https://github.com/lifeissocool/aardio-extlibs/refs/heads/master/dist/package/xmlquery.tar.lzma",
+        "sampleZipUrl":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/samples/xmlquery.zip",
+        "url":"https://github.com/lifeissocool/aardio-extlibs/raw/refs/heads/master/dist/package/xmlquery.tar.lzma",
         "version":"1.0.0.1",
         "weight":1
     }
